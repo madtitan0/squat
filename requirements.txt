@@ -1,5 +1,6 @@
 cv2
 av
+get_mediapipe_pose
 numpy
 opencv-python-headless
 mediapipe
