@@ -1,3 +1,4 @@
+
 cv2
 av
 get_mediapipe_pose
@@ -7,3 +8,5 @@ opencv-python-headless
 mediapipe
 streamlit
 streamlit_webrtc
+mesa-libGL
+libgl1-mesa-glx
